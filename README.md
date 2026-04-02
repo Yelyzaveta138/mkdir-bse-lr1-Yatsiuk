@@ -25,6 +25,6 @@ This repository is for Laboratory Work #1. Currently working on Python scripts.
 Файл із повним звітом доступний у цьому репозиторії:
 * [Звіт ЛР №1 (PDF)](./Report_Lab1_Yatsiuk.pdf)
 
-## Виконав
+## Виконала
 Студентка групи ПЗПІ-25-1
-Яцюк Єлизавета Ігорівна  
+Яцюк Єлизавета Ігорівна   
