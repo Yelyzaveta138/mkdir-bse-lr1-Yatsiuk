@@ -13,5 +13,3 @@
 * IDE: Visual Studio Code 1.110
 * VCS: Git 2.47 + GitHub
 * AI-асистент: GitHub Copilot Student
-
-This repository is for Laboratory Work #1. Currently working on Python scripts.
